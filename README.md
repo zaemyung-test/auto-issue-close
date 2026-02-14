@@ -1,2 +1,3 @@
-# auto-issue-close
-Repository for testing automated issue closing
+# Automated Issue Closing
+
+A repository to test GitHub automation for closing labeled issues.
